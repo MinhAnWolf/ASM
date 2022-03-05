@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java/DAO/FavoriteDao.java=UTF-8
+encoding//src/main/java/DAO/ThongkeDao.java=UTF-8
+encoding//src/main/java/DAO/VideoDao.java=UTF-8
+encoding//src/main/java/Untils/FilterUntils.java=UTF-8
+encoding//src/main/java/controler/FavoriteSvl.java=UTF-8
+encoding//src/main/java/controler/HomeSvl.java=UTF-8
+encoding//src/main/java/controler/ShareSvl.java=UTF-8
+encoding//src/main/java/controler/ThongKeSvl.java=UTF-8
+encoding//src/main/java/controler/UserSvl.java=UTF-8
+encoding//src/main/java/controler/VideoSvl.java=UTF-8
+encoding//src/main/webapp/view/navAd.jsp=UTF-8
